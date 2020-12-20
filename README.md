@@ -5,7 +5,6 @@
 :octocat: Go to my [Websites].</br>
 :octocat: Go to my Medium page [Medium].</br>
 :octocat: Go to my DevTo page [DevTo].</br>
-:octocat: Go to my Java lessons [Java].</br>
 
 ## Last 5 Blog Entries
 
