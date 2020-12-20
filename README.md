@@ -16,8 +16,6 @@
 
 [<img align="left" alt="iletisim | Medium" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />][Medium]<br />
 
-[<img align="left" alt="iletisim | Telegram" width="25px" src="https://logos.bugcrowdusercontent.com/logos/ef74/d1fa/62a5b64c/3809e0af42850a579f02c3434743e3ca_bugcrowd__1_.png" />][Telegram]<br />
-
 
 ## Language and skills I know
   <summary>:fire: Github Stats</summary>
