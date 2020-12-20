@@ -25,7 +25,7 @@
   
 [Telegram]: https://t.me/the_n0th1ng
 [Medium]: https://medium.com/
-[Websites]: https://gitbook.io/
+[Websites]: https://adilsoybali.com.tr/
 [DevTo]: https://dev.to/
 [Pentest0]: https://dev.to/
 [Pentest1]: https://dev.to/
