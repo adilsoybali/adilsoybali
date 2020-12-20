@@ -27,11 +27,11 @@
   <img align="left" alt="adilsoybali Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsoybali&layout=demo" />
   
 [Telegram]: https://t.me/the_n0th1ng
-[Medium]: https://z3dxsec.medium.com/
-[Websites]: https://eyupergin.gitbook.io/
-[DevTo]: https://dev.to/z3dxsoft
-[Pentest0]: https://dev.to/z3dxsoft
-[Pentest1]: https://dev.to/z3dxsoft
+[Medium]: https://medium.com/
+[Websites]: https://gitbook.io/
+[DevTo]: https://dev.to/
+[Pentest0]: https://dev.to/
+[Pentest1]: https://dev.to/
 [CyberSecurity0]: https://github.com/adilsoybali/
 [CyberSecurity1]: https://github.com/adilsoybali/
 [CyberSecurity2]: https://github.com/adilsoybali/
