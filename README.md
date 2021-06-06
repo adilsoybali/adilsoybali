@@ -74,12 +74,12 @@
 <h2 align="center">📝To Connect With Me</h2>
 
 <p align="center">
-<a href="mailto:info@adilsoybali.com.tr" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Email" /></a>
-<a href="https://linkedin.com/adilsoybali" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-<a href="https://discord.com/channels/@adilsoybali#1525" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://twitter.com/adilsoybali" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://medium.com/adilsoybali" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="https://adilsoybali.com.tr/#contact" target="blank"><img align="center" src="https://img.shields.io/badge/adilsoybali.com.tr-448cec?style=for-the-badge&logo=koding&logoColor=white" alt="Personal Web Site" /></a>
+<a href="mailto:info@adilsoybali.com.tr" target="_blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Email" /></a>
+<a href="https://linkedin.com/in/adilsoybali" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+<a href="https://discord.com/channels/@adilsoybali#1525" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://twitter.com/adilsoybali" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://medium.com/@adilsoybali" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://adilsoybali.com.tr/#contact" target="_blank"><img align="center" src="https://img.shields.io/badge/adilsoybali.com.tr-448cec?style=for-the-badge&logo=koding&logoColor=white" alt="Personal Web Site" /></a>
 </p>
 
 <p align="center">
