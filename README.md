@@ -85,5 +85,5 @@
 <p align="center">
 <br>
 <h3 style="font-weight: bold;" align="center">Now Playing</h3>
-<p align="center"> <img style="align:center;" src="https://readme-spotify-status-virid.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" /></p>
+<p align="center"> <img style="align:center;" src="https://readme-spotify-status-virid.vercel.app/api/run-spotify-status" alt="Music" width="500" /></p>
 </p>
