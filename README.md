@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="20945597.png" height="175px"/></a>
+<p align="center"><img width="40%" height="auto" src="20945597.png" /></p>
 <h2 align="center">Hey there, I'm <a href="https://adilsoybali.com.tr">Adil Soybalı</a><br> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="38"/></h2>
 <p align="center">
   <b>👨‍💻I am a cyber security specialist.</b><br>
