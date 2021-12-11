@@ -79,7 +79,7 @@
 <a href="https://discord.com/channels/@adilsoybali#1525" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://twitter.com/adilsoybali" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://medium.com/@adilsoybali" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="https://adilsoybali.com.tr/#contact" target="_blank"><img align="center" src="https://img.shields.io/badge/adilsoybali.com.tr-448cec?style=for-the-badge&logo=koding&logoColor=white" alt="Personal Web Site" /></a>
+<a href="https://adilsoybali.com/#contact" target="_blank"><img align="center" src="https://img.shields.io/badge/adilsoybali.com-448cec?style=for-the-badge&logo=koding&logoColor=white" alt="Personal Web Site" /></a>
 </p>
 
 <p align="center">
