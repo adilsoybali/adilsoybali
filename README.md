@@ -81,9 +81,10 @@
 <a href="https://medium.com/@adilsoybali" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="https://adilsoybali.com/#contact" target="_blank"><img align="center" src="https://img.shields.io/badge/adilsoybali.com-448cec?style=for-the-badge&logo=koding&logoColor=white" alt="Personal Web Site" /></a>
 </p>
-
+<!--
 <p align="center">
 <br>
 <h3 style="font-weight: bold;" align="center">Now Playing</h3>
 <p align="center"> <img style="align:center;" src="https://readme-spotify-status-virid.vercel.app/api/run-spotify-status" alt="Music" width="500" /></p>
 </p>
+-->
